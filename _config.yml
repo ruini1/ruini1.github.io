@@ -1,3 +1,17 @@
 theme: jekyll-theme-minimal
 title: test
 description: test
+
+body {
+	margin: 5vh;
+	background: #222;
+	color: #ddd;
+	font-family: Quicksand;
+	font-weight: 300;
+	overflow: hidden;
+}
+a {
+	color: #88f;
+	text-decoration: none;
+	cursor: pointer;
+}
